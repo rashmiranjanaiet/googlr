@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "An advanced AI-powered application to generate and edit images from text prompts. Leveraging Gemini models, users can create stunning visuals, apply edits with simple commands, and get creative inspiration with search-grounded prompt suggestions.",
+  "requestFramePermissions": []
+}
